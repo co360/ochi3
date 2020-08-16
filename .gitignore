@@ -1,8 +1,12 @@
 # Все фото
 /image
+/catalog/view/theme/ochi3/image
 # Дефолтный шаблон
 /catalog/view/theme/default
 # Конфиг
-/config
+/config.php
 # Галп
+/node_modules
+/package-lock.json
 /package.json
+

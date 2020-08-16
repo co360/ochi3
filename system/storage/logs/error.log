@@ -1,0 +1,6 @@
+2020-08-16 21:24:40 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'ochi3' in C:\OSPanel\domains\ochi3\system\library\db\mysqli.php on line 7
+2020-08-16 21:24:40 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OSPanel\domains\ochi3\system\library\db\mysqli.php on line 10
+2020-08-16 21:24:40 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OSPanel\domains\ochi3\system\library\db\mysqli.php on line 10
+2020-08-16 21:25:30 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'ochi3' in C:\OSPanel\domains\ochi3\system\library\db\mysqli.php on line 7
+2020-08-16 21:25:30 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OSPanel\domains\ochi3\system\library\db\mysqli.php on line 10
+2020-08-16 21:25:30 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OSPanel\domains\ochi3\system\library\db\mysqli.php on line 10
