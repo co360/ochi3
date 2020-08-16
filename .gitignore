@@ -1,0 +1,8 @@
+# Все фото
+/image
+# Дефолтный шаблон
+/catalog/view/theme/default
+# Конфиг
+/config
+# Галп
+/package.json
